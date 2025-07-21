@@ -85,8 +85,6 @@ This project explains how to deploy a WordPress website on an AWS EC2 instance u
     Install and activate new themes via FTP
 
 ## WordPress Deployment Summary (LAMP on AWS EC2)
-This project shows how to deploy WordPress on an Amazon EC2 instance running Amazon Linux, using a LAMP stack (Linux, Apache, MySQL, PHP). It also includes FTP access to upload themes via vsFTPD.
-
-
+This guide demonstrates how to deploy a WordPress website on an AWS EC2 instance running Amazon Linux, using the LAMP stack (Linux, Apache, MySQL, PHP). It covers all essential steps including WordPress installation, database configuration, and enabling FTP access via vsFTPD for seamless theme uploads. This deployment ensures a functional and customizable WordPress environment accessible through a web browser and manageable via the WordPress Admin Panel.
 
 
